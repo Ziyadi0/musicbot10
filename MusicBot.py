@@ -12,7 +12,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # التوكن مضاف مباشرة (استبدل هذا بالتوكن الحقيقي الخاص بك)
-TOKEN = "MTM1ODMwNzMwNjAyMTg1MTM2Mg.GU2c8h.Ne8usHumJLVvbmm918A9Rg7KQh57PqKylo-gcw"  # ضع توكن البوت الحقيقي هنا
+TOKEN = "MTM1ODMwNzMwNjAyMTg1MTM2Mg.GbyHsM.x3xkJPBaXsoGDrD3-D47R1l7m-7OX5GxfdJMyA"  # ضع توكن البوت الحقيقي هنا
 
 # التحقق من وجود FFmpeg
 FFMPEG_PATH = os.path.join(os.path.dirname(__file__), "bin", "ffmpeg.exe" if os.name == "nt" else "ffmpeg")
